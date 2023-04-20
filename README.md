@@ -1,6 +1,8 @@
 # DYScovery
 
-======
+## [G1: User Research](G1.md)
+
+## References
 
 Welcome to your CSE 481p repo! 
 

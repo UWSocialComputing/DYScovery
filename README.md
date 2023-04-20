@@ -1,4 +1,62 @@
 # DYScovery
+
+## G1 : User Research
+### Overview of Project Direction
+The live music industry is growing in popularity, but concerts are often constrained to venues in major cities, states or countries. Consequently, concertgoers often find that they need to pay not only for tickets subject to dynamic demand-based pricing systems but also for flight tickets, taxis and hotel rooms for the concert duration. One cost-saving measure that has cropped up amongst concertgoers is to find short-term “roommates” to share a hotel room with. Concertgoers also find roommates a convenient way to find people to share a ride with, in order to reduce dangers associated with ridesharing at the late hours that concerts end.
+
+Currently, concertgoers often rely on social media platform features such as Facebook Groups or Reddit megathreads to try to identify potential short-term roommates. However, having multiple platforms to find roommates can be confusing. People without connections to the concert scene may not know where to look or even that the possibility of finding short-term roommates exists. Moreover, it’s hard to be certain of a person’s identity on platforms such as Reddit. In our user research, we hope to gain a better understanding of these and other issues that concertgoers may face and what improvements they may hope to see to make this process easier for them.
+
+### Target Audience
+Our target audience is people who often attend concerts outside their primary residential region and use cost-saving measures such as finding short-term hotel roommates. 
+
+### Research Method
+The research method we have chosen to use is semi-structured interviews. We chose this method because it is important that we have the ability to ask follow-up questions. In particular, we have a vague understanding of the problem space based on preliminary research. However, we would like to dig into people’s particular experiences to gain a better understanding of the particular issues they face. Given the nature of this problem, we expect that things will come up in interviews that we will need to ask follow-up questions about. The context and detailed particulars of the activity do not matter as much as the individual’s thought process and understanding of the flow of information accessed during the process of attending a concert.
+
+Semi-structured interview template here.
+
+### Participants/Data
+Please note all participants have been anonymized and given fake names for convenience in describing our interview results.
+
+RM is a female UW undergraduate student in her twenties majoring in informatics. She is a K-pop fan and is currently into BTS and SHINee. She attended a music festival, Lollapalooza 2022, and plans to attend another concert in the spring. 
+
+Sunflower is a female UW graduate student in her twenties majoring in CSE. She is a K-pop fan who is into groups under JYP Entertainment. She attended Twice's concert in NYC in 2022.
+
+Elaine is a female UW graduate student in her twenties majoring in architecture. She is a K-pop fan who is currently following NCT Dream. In addition to K-pop concerts, Elaine has also attended many other types of music concerts, which span genres including classical, jazz, pop, and country.
+
+Kasey is a female UW graduate student in her twenties majoring in social work. She is a K-pop fan who is into NCT Dream. She has attended every concert that NCT Dream has had in the US.
+
+### Summary of findings using AEIOU Framework
+We would like to narrow down ideas in order to build a tool that helps K-pop fans who are going outside of their primary residence for concerts to find short-term hotel/Airbnb roommates. 
+
+* Activities: People want to find a place to stay, stow their belongings and rest while they are in a different city. However, the cost can be expensive, so they want to share the space to split expenses.
+
+* Environments: The target physical environment for roommates to share are rooms in hotels or Airbnbs. Some interview participants voiced a preference for residing only with family and friends (or friends-of-friends) due to safety concerns. In these situations, short-term roommates may meet in-person before the concert trip. Other interview participants were okay sharing rooms with strangers. In this case, they may start by exploring their friend networks, but eventually also explore social media channels and group chats to find potential roommates. Some social media platforms mentioned by our interviewees were: WeChat, Weibo, and Little Red Book.
+
+* Interactions: There are several key interactions involved in this project direction. Firstly, there are typically interactions between the concertgoer and their friends and family, in order to determine if any known persons are heading to the same location as them. These interactions are typically in-person, or using more personal communication tools such as SMS. Then, there are interactions between the concertgoer and potential roommates. These interactions are supported through interactions such as posting roommate-finding requests on social media and browsing through chat messages. Direct messages are the medium of initiating and continuing communication with potential roommates, although these are transformed into group chats for stays with more than two people. All these interactions typically occur for about 2-4 weeks before the concert. Most often, dates of stays and places to stay are finalized around 1-2 weeks before the concert. This involves interaction between the short-term roommates and platforms for hotel or Airbnb bookings as well. Roommates may also communicate for a short period after the concert ends, to communicate excitement over the event.
+
+* Objects: A key object in this project is the sharing space, i.e. a hotel room or Airbnb. This involves elements such as beds, bathrooms, lights, noise levels, kitchens, etc. which some participants mentioned concern with. Another key object is the smartphone. This object is used to communicate with others and book sharing spaces. 
+
+* Users: Music fans who attend concerts in cities other than the one they live in.
+
+### Project takeaways
+
+During our interviews, we observed that individuals have varying preferences regarding finding short-term roommates. Several considerations came up in the interviews, such as:
+* Transportation methods
+* Distance between stay and venue
+* Budget
+* Safety
+* Correspondence of stay dates with roommates
+Reliability of stay location (for e.g., hotel chains over lesser known ones)
+‘Good’ roommate qualities, such as, sleeping preferences or messiness
+
+For some, safety is the top priority, and they tend to stay with people they know in real life, such as friends and family, to minimize risks. As a result, we have identified a design challenge to ensure our tool is reliable. To establish credibility, we will look into using methods such as ticket verification, ID verification, previous concert attendance, real-life interactions (friends of friends), and social media postings. Additionally, a rating and reviewing system that enables roommates to rate each other could prove beneficial. Profile pictures that represent users also enhance credibility of users.
+
+On the opposite end of the spectrum, some people are more concerned about finding ideal matches to cut costs. Regarding accommodations, this means proximity to the concert venue, affordable housing rates, flexible check-in and check-out times, and luggage services. As for roommates, factors such as gender, dates, duration of stay, roommate group size, sleeping habits, and preferred fan group come into play. We may want to have some filtering features to help users find matches with corresponding preferences.
+
+Interviewees discussed problems that they have with existing solutions as well. Finding roommates can be very time-consuming as it requires clicking through different social media platforms and many threads on those platforms in order to view all the roommate-finding requests on the platforms. This is a design opportunity, where our solution could provide a more efficient way to help concertgoers find potential roommates. 
+
+======
+
 Welcome to your CSE 481p repo! 
 
 First, if you have an updated group name, please feel free to change the name of this repo and your group’s Google Drive folder.

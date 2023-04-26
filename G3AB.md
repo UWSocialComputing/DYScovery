@@ -60,7 +60,7 @@ Task 1: browse through posts to look for roommates
 ------------------------
 Starting from the homepage, a user uses the filter on the left to find posts about the DYS concert.
 
-![pic1](pics/"1 - home page".jpg)
+![pic1](./pics/"1 - home page".jpg)
 
 After clicking on a post, the user is directed to the detail page where they can find more information, as well as chat with the user who made the post.
 

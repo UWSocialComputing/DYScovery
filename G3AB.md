@@ -1,8 +1,9 @@
-A: Description of low-fidelity prototype
+G3AB: Prototype Design
 ========================================
 
-What are the components?
-------------------------
+## A: Description of low-fidelity prototype
+
+### What are the components?
 
 The purpose of our paper prototype is to test how participants can engage with the project user interface, to ensure the flow between components and pages is smooth and to get user feedback on the structure of interface components.
 
@@ -45,25 +46,21 @@ We are 'wizarding' the following in this prototype:
 Additionally, on the next page, you can find images of our component pieces. Individual components will be cut out and placed per our initial envisionment on the page but are adjustable so that participants can actively interact with features such as sliders while also adjusting their locations to their preferences if they wish in order to obtain more information on what participants think of the user flow.
 
 
-B: Screenshots, drawings, or photos (or other) of the prototype
-========================================
+## B: Screenshots, drawings, or photos (or other) of the prototype
 
-Overview of paper prototype components
-------------------------
+### Overview of paper prototype components
 - [Tabs](https://docs.google.com/drawings/d/1ph7er8MHt-1_7_geXIm11vyP1EFxBSR59ZAF7-YGkCQ/edit?usp=share_link)
 - [Posts, Search bar, Button](https://docs.google.com/drawings/d/1YhLhpINf7QM_o_Dlo7EJrVXzBAjCnr-Ej_abmFFXXYo/edit?usp=share_link)
 - [Posts, Filter](https://docs.google.com/drawings/d/1M5dtW_IWaWVtS_YA_ux3r1OFzvg5FSrOaqULOxeG7Ck/edit?usp=share_link)
 - [Post your request page](https://docs.google.com/drawings/d/1d2Xnwl_TFGqV7TZ3Q-0bTVSkQSUR3QhAmiAES7AeAQE/edit?usp=share_link)
 
 
-Task 1: browse through posts to look for roommates
-------------------------
+### Task 1: browse through posts to look for roommates
 Starting from the homepage, a user uses the filter on the left to find posts about the DYS concert.
 
 After clicking on a post, the user is directed to the detail page where they can find more information, as well as chat with the user who made the post.
 
-Task 2: create a post to look for roommates
-------------------------
+### Task 2: create a post to look for roommates
 A user can click on the “post your request” button on the top right corner on the homepage to be redirected to a page where they can create a post to look for roommates.
 
 After filling in the information, a new post will appear on the homepage for others to browse.

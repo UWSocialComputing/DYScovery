@@ -6,7 +6,13 @@ Last update: 4/20/2023
 * Yadi
 * Diana
 
-## [G1: User Research](G1.md)
+## Development Process
+### [G1: User Research](G1.md)
+
+### [G2: Pitch Presentation](https://docs.google.com/presentation/d/110TRLBD6Zd3PZm06ScLPRkPtQ_zwlZ9A07zOfFKZIRA/edit?usp=sharing)
+
+### [G3AB: Prototype Design](G3AB.md)
+
 
 ## References
 

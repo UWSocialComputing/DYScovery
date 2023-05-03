@@ -13,6 +13,8 @@ Last update: 4/20/2023
 
 ### [G3AB: Prototype Design](G3AB.md)
 
+### [G3C: Prototype Feedback](G3C.md)
+
 
 ## References
 

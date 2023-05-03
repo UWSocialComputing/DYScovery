@@ -1,12 +1,11 @@
 # G3C Prototype Feedback
 
-Goals
------
+## Goals
 
 One main goal of our wizard-of-oz session was to understand how potential users will interact with the interface flow. We wanted to determine what information they would like to see and what they found irrelevant. Further, it was essential to decipher the information they would be willing to share on the platform. We also wanted to identify confusing elements of the preliminary user interface that needed to be clarified for users.
 
-Learnings
----------
+## Learnings
+
 
 We had several learnings through our wizard-of-oz sessions, which we will outline below.
 

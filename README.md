@@ -1,5 +1,6 @@
-# Progress
-Last update: 4/20/2023
+# DYScovery Wiki
+
+Last update: 5/3/2023
 
 ## Team Members
 * Shreya

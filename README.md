@@ -1,5 +1,6 @@
-# Progress
-Last update: 4/20/2023
+# DYScovery Wiki
+
+Last update: 5/3/2023
 
 ## Team Members
 * Shreya
@@ -12,6 +13,8 @@ Last update: 4/20/2023
 ### [G2: Pitch Presentation](https://docs.google.com/presentation/d/110TRLBD6Zd3PZm06ScLPRkPtQ_zwlZ9A07zOfFKZIRA/edit?usp=sharing)
 
 ### [G3AB: Prototype Design](G3AB.md)
+
+### [G3C: Prototype Feedback](G3C.md)
 
 
 ## References

@@ -16,6 +16,8 @@ Last update: 5/3/2023
 
 ### [G3C: Prototype Feedback](G3C.md)
 
+### [G4: Code and Design Spec](G4.md)
+
 ### [G5: Midterm Report](https://docs.google.com/presentation/d/1XSkaFymjbxs-z5gjrHB9QgHjbOpRdwy4R5ZnPRssmHI/edit?usp=sharing)
 
 

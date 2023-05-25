@@ -20,6 +20,7 @@ Last update: 5/3/2023
 
 ### [G5: Midterm Report](https://docs.google.com/presentation/d/1XSkaFymjbxs-z5gjrHB9QgHjbOpRdwy4R5ZnPRssmHI/edit?usp=sharing)
 
+### [G6: User Testing](G6.md)
 
 ## References
 

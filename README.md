@@ -1,6 +1,6 @@
 Last update: 5/31/2023
 
-![DYScovery Logo](/pics/logo_banner2.JPG)
+![DYScovery Logo](/pics/logo_banner2.jpg)
 
 **DYScovery** is a web-based platform that connects concertgoers looking for **short-term roommates** when they attend concert in a different city.
 

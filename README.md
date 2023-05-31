@@ -39,9 +39,9 @@ It offers the following features:
 ### [G9: Website](https://uwsocialcomputing.github.io/DYScovery/)
 
 ## Team Members
-### Diana (she/her)
-### Shreya (she/her)
-### Yadi (she/her)
+### Diana Dai (she/her)
+### Shreya Jayaraman (she/her)
+### Yadi Wang (she/her)
 
 ## References
 

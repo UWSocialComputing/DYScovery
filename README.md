@@ -1,19 +1,21 @@
-![DYScovery Logo](/pics/logo.png)
-
 # DYScovery Wiki
 
 Last update: 5/31/2023
 
-## Some kind of intro for our project
+<!-- ![DYScovery Logo](/pics/logo.png) -->
 
-blabla
+**DYScovery** is a web-based platform that connects concertgoers looking for **short-term roommates** when they attend concert in a different city.
+
+It offers the following features:
+1. **Search** for people attending the same event who are also looking for roommates.
+2. **View** posting details and **chat** with other users.
+3. **Create** a new posting looking for roommates.
 
 ### Check out our demo video [here](https://youtu.be/7NzQw5uOy1Q)!
 
 [![thumbnail](/pics/thumbnail.png)](https://youtu.be/7NzQw5uOy1Q)
 
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/DYScovery-code/)
-
 
 ## Development Process
 ### [G1: User Research](G1.md)
@@ -30,12 +32,16 @@ blabla
 
 ### [G6: User Testing](G6.md)
 
+### [G7: Digital Prototype](G7.md)
+
+### [G8: Video Demo](https://youtu.be/7NzQw5uOy1Q)
+
+### [G9: Website](https://uwsocialcomputing.github.io/DYScovery/)
 
 ## Team Members
-* Shreya
-* Yadi
-* Diana
-
+### Diana (she/her)
+### Shreya (she/her)
+### Yadi (she/her)
 
 ## References
 

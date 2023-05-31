@@ -1,11 +1,19 @@
+![DYScovery Logo](/DYScovery/pics/logo.png)
+
 # DYScovery Wiki
 
-Last update: 5/3/2023
+Last update: 5/31/2023
 
-## Team Members
-* Shreya
-* Yadi
-* Diana
+## Some kind of intro for our project
+
+blabla
+
+### Check out our demo video!
+
+<iframe width="560" height="315" src="https://youtu.be/7NzQw5uOy1Q" frameborder="0" allowfullscreen></iframe>
+
+### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/DYScovery-code/)
+
 
 ## Development Process
 ### [G1: User Research](G1.md)
@@ -21,6 +29,13 @@ Last update: 5/3/2023
 ### [G5: Midterm Report](https://docs.google.com/presentation/d/1XSkaFymjbxs-z5gjrHB9QgHjbOpRdwy4R5ZnPRssmHI/edit?usp=sharing)
 
 ### [G6: User Testing](G6.md)
+
+
+## Team Members
+* Shreya
+* Yadi
+* Diana
+
 
 ## References
 

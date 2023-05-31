@@ -10,7 +10,7 @@ blabla
 
 ### Check out our demo video [here](https://youtu.be/7NzQw5uOy1Q)!
 
-[![thumbnail](/pics/thumbnail)](https://youtu.be/7NzQw5uOy1Q)
+[![thumbnail](/pics/thumbnail.png)](https://youtu.be/7NzQw5uOy1Q)
 
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/DYScovery-code/)
 

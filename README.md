@@ -38,8 +38,13 @@ It offers the following features:
 
 ## Team Members
 ### Diana Dai (she/her)
+![](/pics/default_pfp.png)
+
 ### Shreya Jayaraman (she/her)
+![](/pics/default_pfp.png)
+
 ### Yadi Wang (she/her)
+![](/pics/default_pfp.png)
 
 ## References
 

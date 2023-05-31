@@ -1,4 +1,4 @@
-![DYScovery Logo](/DYScovery/pics/logo.png)
+![DYScovery Logo](/pics/logo.png)
 
 # DYScovery Wiki
 
@@ -8,9 +8,9 @@ Last update: 5/31/2023
 
 blabla
 
-### Check out our demo video!
+### Check out our demo video [here](https://youtu.be/7NzQw5uOy1Q)!
 
-<iframe width="560" height="315" src="https://youtu.be/7NzQw5uOy1Q" frameborder="0" allowfullscreen></iframe>
+[![thumbnail](/pics/thumbnail)](https://youtu.be/7NzQw5uOy1Q)
 
 ### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/DYScovery-code/)
 

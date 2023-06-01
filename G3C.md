@@ -1,4 +1,4 @@
-# G3C Prototype Feedback
+# Prototype Feedback
 
 ## Goals
 

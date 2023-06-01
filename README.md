@@ -38,7 +38,7 @@ It offers the following features:
 
 ## Team Members
 ### Diana Dai (she/her)
-![](/pics/default_pfp.png)
+![](/pics/dianadai.png)
 
 ### Shreya Jayaraman (she/her)
 ![](/pics/default_pfp.png)

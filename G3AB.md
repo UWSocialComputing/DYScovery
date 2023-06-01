@@ -1,5 +1,4 @@
-G3AB: Prototype Design
-========================================
+# Prototype Design
 
 ## A: Description of low-fidelity prototype
 

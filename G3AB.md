@@ -57,10 +57,22 @@ Additionally, on the next page, you can find images of our component pieces. Ind
 
 ### Task 1: browse through posts to look for roommates
 Starting from the homepage, a user uses the filter on the left to find posts about the DYS concert.
+![](pics/g3-1-homepage.jpg) 
+![](pics/g3-2-filter.jpg)
+![](pics/g3-3-results.jpg)
+
 
 After clicking on a post, the user is directed to the detail page where they can find more information, as well as chat with the user who made the post.
+![](pics/g3-4-detail.jpg)
+![](pics/g3-5-detail.jpg)
 
 ### Task 2: create a post to look for roommates
 A user can click on the “post your request” button on the top right corner on the homepage to be redirected to a page where they can create a post to look for roommates.
+![](pics/g3-1-homepage.jpg) 
+![](pics/g3-6.jpg) 
+
 
 After filling in the information, a new post will appear on the homepage for others to browse.
+![](pics/g3-7.jpg) 
+![](pics/g3-3-results.jpg)
+

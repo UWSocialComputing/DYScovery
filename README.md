@@ -44,7 +44,7 @@ It offers the following features:
 ![](/pics/default_pfp.png)
 
 ### Yadi Wang (she/her)
-![](/pics/default_pfp.png)
+![](/pics/yadiwang.jpg)
 
 ## References
 
